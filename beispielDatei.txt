@@ -1,1 +1,8 @@
 wir nehmen eine Änderung vor
+
+
+
+Das ist auch eine Änderung. Diese Änderung 
+findet im Master statt. Zuvor haben wir einen Entwicklung3 branch erstellt. 
+Dieser branch ist jedoch nach dieser Änderung hinter dem master. 
+Wir benötigen einen 3 Way Merge
